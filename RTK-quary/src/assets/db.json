@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "posts" : [
         {
             "title": "soumya",
@@ -18,4 +19,18 @@
             "id": 3
         }
     ]
+=======
+     "posts": [
+          {
+               "title": "Post1",
+               "body": "some random postes",
+               "userId": 23
+          },
+          {
+               "title": "Post2",
+               "body": "some random poste2",
+               "userId": 24
+          }
+     ]
+>>>>>>> b713c5ec8bafe726ae4475e01b6843605efc294a
 }
