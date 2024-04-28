@@ -1,0 +1,21 @@
+{
+    "posts" : [
+        {
+            "title": "soumya",
+            "body": "Hi this is soumya, an enthusiast dev",
+            "userId": 21,
+            "id": 1
+        },
+        {
+            "title": "soumyadip",
+            "body": "Hi this is soumyadip, an enthusiast dev",
+            "userId": 22,
+            "id": 2
+        },{
+            "title": "ram",
+            "body": "Hi this is ram, an enthusiast dev",
+            "userId": 20000,
+            "id": 3
+        }
+    ]
+}
