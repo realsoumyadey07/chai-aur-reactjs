@@ -21,10 +21,10 @@ function App() {
       <h1>Chai and react</h1>
       <p>JOKES: {jokes.length}</p>
       {jokes && jokes.map((joke, index) => (
-        <>
-          <h3 key={joke.id}>{joke.title}</h3>
+        <div key={joke.id}>
+          <h3>{joke.title}</h3>
           <p>{joke.content}</p>
-        </>
+        </div>
       ))} 
     </div>
   );
